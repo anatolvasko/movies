@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Clearing" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.ClearingSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="splashScreenIconSize">16dp</item>
+        <item name="postSplashScreenTheme">@style/Theme.Clearing</item>
+    </style>
+
+</resources>

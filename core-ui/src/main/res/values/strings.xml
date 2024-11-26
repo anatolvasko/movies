@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clearing</string>
+    <string name="movies_title">Movies</string>
+    <string name="search_placeholder">Search</string>
+    <string name="no_result_found">No results found</string>
+    <string name="general_error">Oops, something went wrong</string>
+    <string name="movie_details_failed">Failed to load movie details</string>
+    <string name="movie_release_date_failed">Failed to load movie release date</string>
+    <string name="movie_details_languages">Spoken languages</string>
+    <string name="movie_details_release_date">Release date</string>
+</resources>
